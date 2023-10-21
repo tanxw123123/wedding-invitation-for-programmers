@@ -1,7 +1,7 @@
 export default {
   code: 
 `
-// 今天心情非常好!
+// 今日i心情非常好!
 // bao bei I love you
 // let's start
 const { 😆, 🤗 } = 🌎;
